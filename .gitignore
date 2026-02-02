@@ -1,4 +1,13 @@
+# database & generated files
+inventory.db
+*.csv
+
+# python
 __pycache__/
 *.pyc
-.DS_Store
+
+# virtual env
 .venv/
+
+# mac
+.DS_Store
